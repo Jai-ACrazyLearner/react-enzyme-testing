@@ -1,0 +1,1 @@
+- To set the record straight: React components are far more powerful than Angular templates; they should be compared with Angular’s directives instead. [Directives are Angular’s way of creating custom elements].
